@@ -4,3 +4,6 @@ build/
 META-INF/
 out/
 *.iml
+
+# macOS
+.DS_Store
